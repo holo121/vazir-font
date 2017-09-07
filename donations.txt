@@ -821,4 +821,11 @@
         "web": "https://www.neotheme.ir/",
         "amount": 2000
     }
+    , {
+        "date": "1396/06/16 16:37",
+        "name": "محمد رضا روحانی",
+        "img": "https://avatars1.githubusercontent.com/u/13165163?v=4&s=96",
+        "web": "https://databit.ir/",
+        "amount": 1000
+    }
 ]
